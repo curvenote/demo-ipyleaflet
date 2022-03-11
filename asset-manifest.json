@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/demo-ipyleaflet/static/css/main.a55b56bb.css",
-    "main.js": "/demo-ipyleaflet/static/js/main.f9d6559e.js",
+    "main.js": "/demo-ipyleaflet/static/js/main.bfc59e42.js",
     "static/js/209.4b48030c.chunk.js": "/demo-ipyleaflet/static/js/209.4b48030c.chunk.js",
     "static/js/68.70565d37.chunk.js": "/demo-ipyleaflet/static/js/68.70565d37.chunk.js",
     "static/media/jupyterlab-wordmark.svg": "/demo-ipyleaflet/static/media/jupyterlab-wordmark.06de3f6f47040a96e1b75f57ff2be41f.svg",
@@ -90,6 +90,6 @@
   },
   "entrypoints": [
     "static/css/main.a55b56bb.css",
-    "static/js/main.f9d6559e.js"
+    "static/js/main.bfc59e42.js"
   ]
 }
